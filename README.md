@@ -1,4 +1,4 @@
-# 👋 Willkommen auf meiner Github Page
+# Willkommen auf meiner Github Page
 
 Ich befinde mich im HF-Studium Informatik richtung Systemtechnik und nutze GitHub,
 um meine generelle Lernprojekte und Homelab-Übungen zu dokumentieren.
